@@ -1,4 +1,6 @@
 # README
+## Dataset
+ [More than 60,000 rows and 24 columns, containing the top 500-600 films from each year between 1920 to 2025.](https://www.kaggle.com/datasets/raedaddala/top-500-600-movies-of-each-year-from-1960-to-2024)
 ## Project Summary
 For my final project, I wanted to explore something I'm passionate about, movies, through the lens of data science.
 I started with a question: do directors who work across many genres tend to be more successful than those who stick to one type of film?
