@@ -13,8 +13,8 @@ While the correlation isn't huge, it suggests that being versatile doesn't hurt 
 The whole process taught me how to take a real-world question and use data to find an actual, measurable answer.
 ## The Most Impressive Graph
 <img width="1760" height="1320" alt="image" src="https://github.com/IdanDalal/EDA/blob/main/plot4.jpg?raw=true" />
-
 "The Director's Compass" plot shows 2,755 directors mapped by their versatility score (x-axis) and success score (y-axis). The color gradient shows performance levels, and you can see the slight upward trend that proves the positive correlation.
+
 ## DataCamp Learning Testimonial
 DataCamp completely changed how I see the world around me.
 The courses steadily built up my confidence, understanding, and abilities by explaining functions and variables in a way that just clicked.
